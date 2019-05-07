@@ -2,8 +2,10 @@
   "name": "static_storybook",
   "version": "0.1.0",
   "private": false,
+  "license": "UNLICENSED",
   "dependencies": {
     "babel-loader": "^8.0.5",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0",
@@ -37,6 +39,7 @@
     "@storybook/addon-actions": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
     "@storybook/react": "^5.0.11",
-    "@storybook/storybook-deployer": "^2.8.1"
+    "@storybook/storybook-deployer": "^2.8.1",
+    "css-loader": "^2.1.1"
   }
 }
